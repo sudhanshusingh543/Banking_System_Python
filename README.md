@@ -1,2 +1,7 @@
-# Banking_System_Python
-A simple banking system mini project developed using Python with modular programming concepts.
+A simple banking system mini project built using Python.
+## Features
+- Create account
+- Deposit money
+- Withdraw money
+- Check balance
+- Exit
